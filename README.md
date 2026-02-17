@@ -1,0 +1,99 @@
+# The Weeknd – After Hours
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Thought I almost died
+in my dream again
+(Baby, almost died)
+Fightin' for my life,
+I couldn't breathe again
+I'm fallin' into you (Oh)
+Without you goin' smooth
+(Fallin' in)
+'Cause my heart belongs to you
+I'll risk it all for you
+I won't choose to leave
+This time I'll never leave
+I wanna share babies
+Protection we won't need
+Your body next to me
+Is just a memory
+I'm fallin' in too deep, oh
+Without you, I'm asleep
+It's on me, only me, oh
+Talk to me,
+without you I can't breathe
+My darkest hours
+Fell apart from a lonely time
+in this crowded room
+Different girls on the floor,
+distracting my thoughts of you
+I turned into the man
+I used to be, to be
+Put myself to sleep
+Just so I can get closer to you
+inside my dreams
+Didn't wanna wake up
+'less you were beside me
+I just wanted to call you
+and say, and say
+Oh, baby, where are you now
+when I need you most?
+I'd give it all
+just to hold you close
+Sorry that I broke your heart,
+your heart
+Never come and go
+I was runnin' away
+from base of reality
+Wastin' all of my time
+on livin' my fantasies
+Spendin' money to compensate,
+compensate
+'Cause I want you baby
+I'll be livin' in Heaven
+when I'm inside of you
+Can't resent when I'm blessed,
+I wake up beside you
+I'll never let you down again,
+again
+Oh, baby, where are you now
+when I need you most?
+I'd give it all
+just to hold you close
+Sorry that I broke your heart,
+your heart
+I said, baby, I treat you
+better than I did before
+I hold you down,
+when I let you go
+This time I won't break
+your heart, your heart, yeah
+I know it's all my fault
+Made you put down your guard
+I know I made you fall
+I said you were wrong for me
+I lied to you, I lied to you,
+I lied to you (To you)
+Can't hide the truth,
+I stayed with her
+in spite of you
+You did some things
+that you regret,
+still right for you
+'Cause this house is not a home
+Without my baby,
+where are you now
+when I need you most?
+I give it all
+just to hold you close
+Sorry that I broke your heart,
+your heart
+And I said, baby, I'll treat you
+better than I did before
+I hold you down,
+when I let you go
+This time I won't break
+your heart, your heart, no
+```
