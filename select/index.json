@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "After Hours",
+  "base_artist": "The Weeknd",
+  "createdAt": "2026-02-17T06:10:38.502804Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After Hours",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/01_After_Hours_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Thrill (After Hours)",
+      "artist": "Georgia",
+      "has_synced": false,
+      "path": "select/02_The_Thrill_(After_Hours)_Georgia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "After Hours",
+      "artist": "Stacey Q",
+      "has_synced": false,
+      "path": "select/03_After_Hours_Stacey_Q.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "After Hours",
+      "artist": "Caribou",
+      "has_synced": true,
+      "path": "select/04_After_Hours_Caribou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "After Hours",
+      "artist": "Phantom Planet",
+      "has_synced": false,
+      "path": "select/05_After_Hours_Phantom_Planet.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "After Hours (Album Version)",
+      "artist": "Phantom Planet",
+      "has_synced": false,
+      "path": "select/06_After_Hours_(Album_Version)_Phantom_Planet.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We All Feel Better In the Dark (After Hours Climax)",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/07_We_All_Feel_Better_In_the_Dark_(After_Hours_Climax)_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "After Hours",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/08_After_Hours_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "After Hours (Version 1 / Live)",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/09_After_Hours_(Version_1___Live)_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "After Hours (live) (version 1)",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/10_After_Hours_(live)_(version_1)_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "After Hours - Closet Mix",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/11_After_Hours_-_Closet_Mix_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "After Hours (Closet Mix)",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/12_After_Hours_(Closet_Mix)_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "After Hours - Live",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/13_After_Hours_-_Live_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "After Hours - Mono Single",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/14_After_Hours_-_Mono_Single_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "After Hours (Mono)",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/15_After_Hours_(Mono)_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "After Hours (Valentin Mix)",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/16_After_Hours_(Valentin_Mix)_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "After Hours",
+      "artist": "The Weeknd",
+      "has_synced": false,
+      "path": "select/pl_01_After_Hours_The_Weeknd.txt"
+    }
+  ]
+}
